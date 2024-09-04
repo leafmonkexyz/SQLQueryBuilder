@@ -38,7 +38,7 @@ You can press the 'reverse' button to give input as Natural Language and get SQL
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/öeafmonkexyz/SQLQueryBuilder.git
+    git clone https://github.com/leafmonkexyz/SQLQueryBuilder.git
     ```
 
 2. Install the required packages:
