@@ -1,6 +1,6 @@
-<h1 align="center">SQL Translator<br>(SQL to Natural Language and Natural Language to SQL)</h1>
+<h1 align="center">SQLQueryBuilder<br>(Natural Language to SQL)</h1>
 
-Welcome to the SQL and Natural Language Translator! This tool is designed to make it easy for anyone to translate SQL (Structured Query Language) commands into natural language and vice versa. SQL is a programming language used to manage and manipulate data in relational databases, and while it's a powerful tool, it can also be quite complex and difficult to understand. On the other hand, natural language is the language that we speak and write in everyday life, and it's often the preferred way to communicate for people who are not familiar with technical jargon.
+Welcome! This tool is designed to make it easy for anyone to natural language commands into translate SQL (Structured Query Language). SQL is a programming language used to manage and manipulate data in relational databases, and while it's a powerful tool, it can also be quite complex and difficult to understand. On the other hand, natural language is the language that we speak and write in everyday life, and it's often the preferred way to communicate for people who are not familiar with technical jargon.
 
 With the SQL and Natural Language Translator, you don't need to be a SQL expert to understand what's going on in your database, or to write SQL queries. You can simply type in your query in natural language and get the corresponding SQL code, or type in your SQL code and get a human-readable translation.This project is 100% free and open source.
 
@@ -38,13 +38,13 @@ You can press the 'reverse' button to give input as Natural Language and get SQL
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/whoiskatrin/sql-translator.git
+    git clone https://github.com/öeafmonkexyz/SQLQueryBuilder.git
     ```
 
 2. Install the required packages:
 
     ```bash
-    cd sql-translator
+    cd SQLQueryBuilder
     npm install
     ```
 
@@ -71,7 +71,7 @@ You can press the 'reverse' button to give input as Natural Language and get SQL
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/whoiskatrin/sql-translator.git
+    git clone https://github.com/öeafmonkexyz/SQLQueryBuilder.git
     ```
 
 2. Input your OPENAI API key in the .env.production file, you can get your API key [here](https://beta.openai.com/account/api-keys):
@@ -102,6 +102,4 @@ Contributions to SQL Translator are welcome and encouraged! To contribute, pleas
 4. Push your changes to your fork
 5. Submit a pull request
 
-## 📜 License
 
-SQL Translator is released under the MIT [License](LICENSE).
