@@ -92,14 +92,5 @@ Once the development server is running, you can access the application by naviga
 
 Enter a natural language query in the input box and click "Translate" to generate the corresponding SQL code. The generated SQL code will be displayed in the output box.
 
-## 👥 Contributing
-
-Contributions to SQL Translator are welcome and encouraged! To contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Push your changes to your fork
-5. Submit a pull request
 
 
